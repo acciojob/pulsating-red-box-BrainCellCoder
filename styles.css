@@ -7,10 +7,10 @@ body {
     background-color: #f0f0f0;
 }
 
-.pulsating-box {
+.box {
     width: 100px;
     height: 100px;
-    background-color: red;
+    background-color: rgb(255, 0, 0);
     animation: pulse 1s infinite ease-in-out;
 }
 
